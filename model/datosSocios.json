@@ -1,0 +1,18 @@
+{	"socio": 
+[	{
+		"id":1,
+		"nombre":"Yon",
+		"apellido":"Kiusak"
+	},
+	{
+		"id":2,
+		"nombre":"Susan",
+		"apellido":"Sarandonga"
+	},
+	{
+		"id":3,
+		"nombre":"Llina",
+		"apellido":"Deibis"
+	}
+]
+}
